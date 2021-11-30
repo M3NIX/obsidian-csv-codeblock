@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-csv-codeblock",
+  "version": "0.0.1",
+  "description": "This plugin renders csv codeblocks as tables",
+  "name": "CSV Codeblock as Tables",
+  "author": "m3nix",
+  "authorUrl": "https://github.com/m3nix",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.10.12"
+}
